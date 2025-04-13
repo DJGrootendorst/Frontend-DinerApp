@@ -1,0 +1,18 @@
+.recipe-list {
+    list-style: none;
+    padding: 0;
+}
+
+.recipe-list li {
+    margin-bottom: 1rem;
+}
+
+.recipe-list a {
+    text-decoration: none;
+    color: #6200ea;
+    font-weight: bold;
+}
+
+.recipe-list a:hover {
+    text-decoration: underline;
+}

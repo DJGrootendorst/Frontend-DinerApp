@@ -1,0 +1,26 @@
+.recipe-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.recipe-details h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.recipe-details p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.recipe-details ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recipe-details img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}

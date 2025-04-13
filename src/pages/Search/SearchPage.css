@@ -1,0 +1,11 @@
+.search-input {
+    padding: 0.8rem;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+}
+
+.recipe-list {
+    list-style: none;
+    padding: 0;
+}
